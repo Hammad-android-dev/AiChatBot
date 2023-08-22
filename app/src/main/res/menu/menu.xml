@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/aimodels"
+        android:icon="@drawable/cube"
+        android:title="AI Model"
+        >
+
+
+    </item>
+
+    <item
+        android:id="@+id/Chatgpt"
+        android:icon="@drawable/chatgpt"
+        android:title="ChatGpt"
+        >
+
+
+    </item>
+
+
+    <item
+        android:id="@+id/bing"
+        android:icon="@drawable/bing"
+        android:title="Bing"
+        >
+
+
+    </item>
+
+
+    <item
+        android:id="@+id/privacy"
+        android:icon="@drawable/privacy"
+        android:title="Privacy Policy"
+        >
+
+
+    </item>
+
+</menu>

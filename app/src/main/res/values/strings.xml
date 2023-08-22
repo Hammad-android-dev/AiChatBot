@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AI Bot</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    /////Links
+    <string-array name="path">
+
+        <item>
+          "  file:///android_asset/ANN.html"
+        </item>
+        <item>
+          "  file:///android_asset/CNN.html"
+        </item>
+        <item>
+          "  file:///android_asset/RNN.html"
+        </item>
+        <item>
+          "  file:///android_asset/TNN.html"
+        </item>
+        <item>
+            "  file:///android_asset/GNN.html"
+        </item>
+        <item>
+          "  file:///android_asset/SVM.html"
+        </item>
+
+
+    </string-array>
+</resources>
